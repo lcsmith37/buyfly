@@ -1,0 +1,14 @@
+name: BuyFly
+main: me.riveneur.plugin.buyfly.Main
+version: 1.0
+author: Riveneur
+commands: 
+   buyfly:
+      description: Grants the user flight for the specified amount of time.
+      usage: /buyfly <length>
+   checkfly:
+       description: If the user has recently purchased flight, gives the remaining amount of time left in minutes.
+       usage: /checkfly
+   refly:
+      description: Allows the user to re-enable flight if there is time remaining.
+      usage: /refly
