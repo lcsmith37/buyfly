@@ -1,7 +1,9 @@
 # buyfly
 A Minecraft plugin that allows players to purchase the ability to fly for a specified length of time.
 
+
 Commands: 
+
 /buyfly <length>:
 Grants the user flight for the specified amount of time.
 
